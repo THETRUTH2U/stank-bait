@@ -1,2 +1,2 @@
 # stank-bait
-just another one
+just another repository
